@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Joshua-uk
+- 👀 I’m interested in learning Programming
+- 🌱 I’m currently learning Python and ML
+- 💞️ I’m looking to collaborate on Projects
